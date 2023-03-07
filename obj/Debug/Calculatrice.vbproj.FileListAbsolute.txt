@@ -1,0 +1,12 @@
+E:\PROJET VISUAL BASIC\Calculatrice\bin\Debug\Calculatrice.exe.config
+E:\PROJET VISUAL BASIC\Calculatrice\bin\Debug\Calculatrice.exe
+E:\PROJET VISUAL BASIC\Calculatrice\bin\Debug\Calculatrice.pdb
+E:\PROJET VISUAL BASIC\Calculatrice\bin\Debug\Calculatrice.xml
+E:\PROJET VISUAL BASIC\Calculatrice\obj\Debug\Calculatrice.vbproj.AssemblyReference.cache
+E:\PROJET VISUAL BASIC\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+E:\PROJET VISUAL BASIC\Calculatrice\obj\Debug\Calculatrice.Resources.resources
+E:\PROJET VISUAL BASIC\Calculatrice\obj\Debug\Calculatrice.vbproj.GenerateResource.cache
+E:\PROJET VISUAL BASIC\Calculatrice\obj\Debug\Calculatrice.vbproj.CoreCompileInputs.cache
+E:\PROJET VISUAL BASIC\Calculatrice\obj\Debug\Calculatrice.exe
+E:\PROJET VISUAL BASIC\Calculatrice\obj\Debug\Calculatrice.xml
+E:\PROJET VISUAL BASIC\Calculatrice\obj\Debug\Calculatrice.pdb
